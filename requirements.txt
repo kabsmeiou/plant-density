@@ -117,4 +117,4 @@ wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.8.0
 wheel==0.45.1
-widgetsnbextension==4.0.13
+widgetsnbextension @ file:///io/buildout/croot/widgetsnbextension_1735843395399/work
